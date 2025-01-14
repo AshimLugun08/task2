@@ -19,3 +19,8 @@ Onboarding Form Testing:
 ->Tested the onboarding form used for creating the community.
 
 ->Collaborated with the testing team to ensure proper functionality and identify any issues.
+
+data=> 14 jan 2025
+task=> setup a spfx envirment 
+and added form into it
+
