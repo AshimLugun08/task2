@@ -24,3 +24,6 @@ data=> 14 jan 2025
 task=> setup a spfx envirment 
 and added form into it
 
+date =>15 ,16  jan
+task=>   done doing creating the new itenms on the list with the spfx 
+
