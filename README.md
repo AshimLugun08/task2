@@ -27,3 +27,8 @@ and added form into it
 date =>15 ,16  jan
 task=>   done doing creating the new itenms on the list with the spfx 
 
+date=>19 jan
+task=> done implementing fluent ui into spfx 
+
+date=>20 jsn 2025
+task=>  don implementin peoplepeaker into the spfx  
